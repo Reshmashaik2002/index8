@@ -1,0 +1,41 @@
+body{ 
+    background:url("w1.jpg"); 
+    background-size: cover; 
+    font-family: 'Oswald', sans-serif; 
+   } 
+   .heading{ 
+    width: 1300px; 
+    height: 100px; 
+    margin-left: 100px;
+    margin-right: 100px; 
+    margin-top: 175px; 
+    background:rebeccapurple; 
+   } 
+   .heading h1{ 
+    font-style: italic; 
+    font-family: 'Times New Roman', Times, serif; 
+    text-align: center; 
+    color:black; 
+    font-size: 50px; 
+   } 
+   .first{ 
+    text-align: center;
+    color:black;
+} 
+.firstimage{ 
+ text-align: center; 
+} 
+.second{ 
+ text-align: center; 
+ color:black; 
+} 
+.secondimage{ 
+ text-align: center; 
+} 
+.image{ 
+ width: 150px; 
+ height: 150px; 
+ border-radius: 5px 5px 0px 0px; 
+ margin-left: 20px; 
+ margin-top: 25px;
+}
